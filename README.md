@@ -1,4 +1,4 @@
-### Hey! Prazer, Aline👩🏾‍💻
+### Hello World! Prazer, sou a Aline! 👩🏾‍💻
 
 Sou tecnóloga em Gestão da TI, moro na zona sul de SP. Estou em transição da carreira para a área de desenvolvimento de software.
 Sou apaixonada por tecnologia, doguinhos e natureza!
