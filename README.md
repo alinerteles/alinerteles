@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hey! 
 
-<img src=”https://media.giphy.com/media/2YhFkqRHh26IjaeTAL/giphy.gif
-”>
+ ![](https://media.giphy.com/media/2YhFkqRHh26IjaeTAL/giphy.gif)
 
  
 <!--
