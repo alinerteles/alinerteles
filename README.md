@@ -1,4 +1,8 @@
-### Hey! 
+### Hey! Prazer, Aline👩🏾‍💻
+
+Sou tecnóloga em Gestão da TI, moro na zona sul de SP. Estouu em transição da carreira pra desenvolvimento de software
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/alinerteles)](https://github.com/alinerteles)[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aline-teles-ti/)](https://www.linkedin.com/in/aline-teles-ti/)[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/alinerteles)](https://twitter.com/alinerteles)
 
  ![](https://media.giphy.com/media/2YhFkqRHh26IjaeTAL/giphy.gif)
 
