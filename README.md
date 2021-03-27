@@ -6,7 +6,7 @@ Sou apaixonada por tecnologia, doguinhos e natureza!
 🔭 Atualmente, estou trabalhando em projetos pessoais e freelas
 - 🌱 Atualmente estou aprendendo JavaScript e React
 - 👯 Estou procurando colaborar em comunidades de tecnologia voltadas a mulheres
-- 🤔 Estou procurando ajuda com uma oportunidade como desenvolvedora junior
+- 🤔 Estou procurando ajuda com uma oportunidade como desenvolvedora front-end junior
 - 📫 Como entrar em contato comigo: 
 Email: alinerteles@gmail.com / telefone: 11 9 5791-9109
 - 😄 Pronomes: Ela/ Dela
