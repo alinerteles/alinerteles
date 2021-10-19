@@ -1,12 +1,11 @@
 ### Hello World! Prazer, sou a Aline! 👩🏾‍💻
 
-Sou tecnóloga em Gestão da TI, moro na zona sul de SP. Estou em transição da carreira para a área de desenvolvimento de software.
+Sou tecnóloga em Gestão da TI, moro na zona sul de SP. Trabalho como analista de engenharia de software.
 Sou apaixonada por tecnologia, doguinhos e natureza!
 
 🔭 Atualmente, estou trabalhando em projetos pessoais e freelas
-- 🌱 Atualmente estou aprendendo JavaScript e React
+- 🌱 Atualmente estou aprendendo . NET, Visual Basic.
 - 👯 Estou procurando colaborar em comunidades de tecnologia voltadas a mulheres
-- 🤔 Estou procurando ajuda com uma oportunidade como desenvolvedora front-end junior
 - 📫 Como entrar em contato comigo: 
 Email: alinerteles@gmail.com / telefone: 11 9 5791-9109
 - 😄 Pronomes: Ela/ Dela
